@@ -1,1 +1,30 @@
-1
+.button {
+  width: 99px;
+  height: 24px;
+  border-radius: 12px;
+  border: solid 1px #e8e8e8;
+  background-color: #ffffff;
+}
+
+span  {
+  width: 51px;
+  height: 17px;
+  font-family: NotoSansCJKkr;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.55;
+  letter-spacing: normal;
+  text-align: left;
+  color: #2e2e2e;
+}
+
+
+img {
+  width: 9px;
+  height: 10.5px;
+  object-fit: contain;
+}
+
+
